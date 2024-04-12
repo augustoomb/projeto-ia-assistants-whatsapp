@@ -1,0 +1,26 @@
+{
+  "name": "whatsapp-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "author": "Augusto",
+  "license": "ISC",
+  "dependencies": {
+    "@google-analytics/data": "^4.4.0",
+    "@google-cloud/storage": "^7.7.0",
+    "axios": "^0.27.2",
+    "body-parser": "^1.20.0",
+    "dotenv": "^16.4.4",
+    "express": "^4.18.1",
+    "google-auth-library": "^9.6.3",
+    "googleapis": "^133.0.0",
+    "openai": "^4.0.0",
+    "request": "^2.88.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}

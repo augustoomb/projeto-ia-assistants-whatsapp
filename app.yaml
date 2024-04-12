@@ -1,0 +1,4 @@
+runtime: nodejs18
+
+env_variables:
+  GCLOUD_STORAGE_BUCKET: bucket_project_api_zap_v3

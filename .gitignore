@@ -1,0 +1,4 @@
+node_modules/*
+.env
+projeto-ia-v4-416414-dfbdaa5b9032.json
+package-lock.json
